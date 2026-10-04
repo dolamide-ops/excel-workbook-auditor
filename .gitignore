@@ -1,0 +1,36 @@
+# Python environment and cache
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Generated output
+output/
+data/Apex_Audit_Report.xlsx
+
+# Development / real-world test workbooks
+data/Budget_Version_3.0_Sample.xlsx
+data/Invalid_Test.xlsx
+data/Performance_Test_*.xlsx
+
+# Development and diagnostic scripts
+baseline_validator.py
+create_limited_demo.py
+diagnose_real_workbook.py
+diagnostics.py
+generate_performance_test.py
+generate_test_data.py
+inspect_*.py
+test_*_manual.py
+validate_*.py
+
+# Project documentation / LinkedIn material
+Excel_Workbook_Auditor_Specification.docx
+Excel_Workbook_Auditor_V1_Reference_v2.docx
+Excel Workbook Auditor.pdf
+LinkedIn Post.docx
+Images/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
