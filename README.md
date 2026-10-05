@@ -211,9 +211,9 @@ The project was deliberately approached from a Business Analysis perspective: de
 
 ## Try the Auditor
 
-A public Streamlit version will be available here:
+The Excel Workbook Auditor is available as a live Streamlit application:
 
-**Live application:** *Coming shortly*
+**Live application:** https://excel-workbook-auditor.streamlit.app
 
 Sample synthetic workbooks are included in the `data` directory for testing.
 
